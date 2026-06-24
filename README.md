@@ -5,6 +5,18 @@ Public home for **issue reports, bug fixes, and feature requests** for
 Firebase web app that turns a roster, a classroom layout, and a set of seating
 rules into a fair, rule-aware seating chart in seconds.
 
+## Try it live
+
+**[Open the Seating Planner app →](https://seating-planner-1a06e.firebaseapp.com/login)**
+
+Sign in, then build a seating chart in three steps: add your **students** (CSV
+upload or manual entry), define your **tables** (the classroom layout), and set
+**rules** such as who must sit together, who must stay apart, and who needs to be
+near the front. The app shuffles students into a chart that respects every rule,
+and you can save each plan privately to revisit later.
+
+---
+
 > **Note on the source code.** The main application source lives in a **private**
 > repository. This community repo is a public tracker and showcase: it hosts
 > issues, selected documentation, and illustrative code snippets. It is **not** a
